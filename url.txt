@@ -1,3 +1,1 @@
-https://little-jars-feel.loca.lt
-
-35.229.103.198
+streamlit run dashboard.py 
