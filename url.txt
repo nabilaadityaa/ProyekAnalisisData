@@ -1,1 +1,1 @@
-streamlit run dashboard.py 
+https://dashboardpy-4gcl7f84rukab36nd2km8t.streamlit.app/
